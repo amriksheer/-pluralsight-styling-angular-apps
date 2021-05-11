@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'saa-app',
   template: `
       <header>
-          <h1>Styling Angular Applications</h1>
+          <h1>Styling Angular Applications test</h1>
           <em>For Modern Angular Applications</em>
       </header>
       <div>
